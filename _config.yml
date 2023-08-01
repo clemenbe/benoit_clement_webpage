@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Benoit CLEMENT"
 title_separator          : "-"
 name                     : &name "Benoit"
-description              : &description "personal description"
-url                      : https://clemenbe.github.io/benoit_clement_webpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "personal website"
+url                      : https://clemenbe.github.io/benoit_clement_webpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clemenbe/benoit_clement_webpage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Benoit Clement"
   avatar           : "profile.png"
-  bio              : "quick links"
+  bio              : "Professor in Robotics"
   location         : "Adelaide, SA"
   employer         : "ENSTA Bretagne"
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/benoit-clement-bb512512/"
+  linkedin         : "benoit-clement-bb512512"
   orcid            : "https://orcid.org/0000-0002-3281-379X"
   pinterest        :
   soundcloud       :
