@@ -16,42 +16,42 @@ You can find my articles alson on  <u><a href="https://cv.hal.science/benoit-cle
 
 Journal papers
 ===
-[1] A. Majed, H. Harb, A. Nasser, B. Clement, and O. Reynet. RUN: a robust cluster-based
+1. A. Majed, H. Harb, A. Nasser, B. Clement, and O. Reynet. RUN: a robust cluster-based
 planning for fast self-reconfigurable modular robotic systems. Intelligent Service Robotics,
 2023.
-[2] Y. Sola, G. Le Chenadec, and B. Clement. Simultaneous Control and Guidance of an AUV
+1. Y. Sola, G. Le Chenadec, and B. Clement. Simultaneous Control and Guidance of an AUV
 Based on Soft Actor-Critic. Sensors, 22(16), 2022.
-[3] G. Fodop, A. Olivier, C. Hoffmann, A. Mansour, S. Jousse-Joulin, L. Bressollette, and
+1. G. Fodop, A. Olivier, C. Hoffmann, A. Mansour, S. Jousse-Joulin, L. Bressollette, and
 B. Clement. Siamese network for salivary glands segmentation. Intelligent Decision Tech-
 nologies, pages 449–457, 2022.
-[4] T. Chaffre, J. Moras, A. Chan-Hon-Tong, J. Marzat, K. Sammut, G. Le Chenadec, and
+1. T. Chaffre, J. Moras, A. Chan-Hon-Tong, J. Marzat, K. Sammut, G. Le Chenadec, and
 B. Clement. Learning-Based vs Model-Free Adaptive Control of a MAV Under Wind Gust.
 Informatics in Control, Automation and Robotics, pages 362–385, 2022.
-[5] J.L. Rosendo, D. Monnet, H. De Battista, J. Ninin, B. Clement, and F. Garelli. A global
+1. J.L. Rosendo, D. Monnet, H. De Battista, J. Ninin, B. Clement, and F. Garelli. A global
 optimization approach for sliding mode tuning and existence maps generation. International
 Journal of Dynamics and Control, October 2020.
-[6] Kahina Bensafia, Ali Mansour, Abdel-Ouahab Boudraa, Salah Haddab, Philippe Ariès, and
+1. Kahina Bensafia, Ali Mansour, Abdel-Ouahab Boudraa, Salah Haddab, Philippe Ariès, and
 Benoit Clement. Blind separation of ECG signals from noisy signals affected by electrosurgical
 artifacts. Analog Integrated Circuits and Signal Processing, 2020.
-[7] A. Majed, H. Harb, A. Nasser, B. Clement, and O. Reynet. Sensing-based self-reconfigurable
+1. A. Majed, H. Harb, A. Nasser, B. Clement, and O. Reynet. Sensing-based self-reconfigurable
 decision-making mechanism for autonomous modular robotic system. IEEE Sensors Journal,
 2020.
-[8] Xiaomin Wang, Benoît Zerr, helene Thomas, Benoit Clement, and Zexiao Xie. Pattern for-
+1. Xiaomin Wang, Benoît Zerr, helene Thomas, Benoit Clement, and Zexiao Xie. Pattern for-
 mation of multi-AUV systems with the optical sensor based on displacement-based formation
 control. International Journal of Systems Science, 51(2):348–367, January 2020.
-[9] X. Wang, L. Benozzi, B. Zerr, Z. Xie, H. Thomas, and B. Clement. Formation building
+1. X. Wang, L. Benozzi, B. Zerr, Z. Xie, H. Thomas, and B. Clement. Formation building
 and collision avoidance for a fleet of NAOs based on optical sensor with local positions and
 minimum communication. Science China - Information Sciences, 2019.
-[10] Juan Luis Rosendo, Benoit Clement, and Fabricio Garelli. Experimental validation of con-
+1. Juan Luis Rosendo, Benoit Clement, and Fabricio Garelli. Experimental validation of con-
 straint mitigation algorithm in underwater robot depth control. Proceedings of the Institution
 of Mechanical Engineers, Part I: Journal of Systems and Control Engineering, 233(3):264–275,
 2019.
-[11] Philippe Ariès, Kahina Bensafia, Ali Mansour, Benoit Clement, Jean-Louis Vincent, and
+1. Philippe Ariès, Kahina Bensafia, Ali Mansour, Benoit Clement, Jean-Louis Vincent, and
 Ba Vinh Nguyen. Design and Evaluation of a Wireless Electrocardiogram Monitor in an
 Operating Room. Anesthesia and Analgesia, page 1, 2018.
-[12] R. Keyetieu, N. Seube, V. Djine, G. Roue, B. Clement, and P. Bosser. Multi-beam echo
+1. R. Keyetieu, N. Seube, V. Djine, G. Roue, B. Clement, and P. Bosser. Multi-beam echo
 sounders-INS automatic latency calibration. Marine Geodesy, pages 1–17, 2018.
-[13] K. Bensafia, A. Mansour, G. Le Maillot, B. Clement, O. Reynet, P. Ariès, and S. Haddab.
+1. K. Bensafia, A. Mansour, G. Le Maillot, B. Clement, O. Reynet, P. Ariès, and S. Haddab.
 Wireless based system for continuous electrocardiography monitoring during surgery. Interna-
 tional Journal of Biomedical and Biological Engineering, 11(10):571 – 577, 2017.
 [14] P. Aries, O. Reynet, B. Clement, and V. Nguyen. Another stone to the edifice of wireless
