@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+t.j# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Benoit Clement"
-  avatar           : "profile.png"
+  avatar           : "benoit.jpg"
   bio              : "Professor in Robotics"
   location         : "Adelaide, SA"
   employer         : "ENSTA Bretagne"
