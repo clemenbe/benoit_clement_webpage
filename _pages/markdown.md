@@ -129,7 +129,7 @@ Intégration de nouveaux algorithmes de pilotage pour les lanceurs.
 * A. Maloum: PostDoc 2001 at Supélec. Commande non-linéaire pour les lanceurs spaciaux
 
 
-## PdD and HDR jury
+## PhD and HDR jury
 * 2022 - PhD committee of A. Milot,
   * Algorithms and architectures for the control of zone exploration by a fleet of autonomous
 underwater vehicles,
