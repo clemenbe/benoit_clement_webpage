@@ -3,7 +3,7 @@ title: "Actual Teaching"
 collection: teaching
 type: "ENSTA Bretagne"
 permalink: /teaching/2023-actual
-venue: "ESNTA Bretagne"
+venue: "ENSTA Bretagne"
 date: 2023-01-01
 location: "Brest France"
 ---
