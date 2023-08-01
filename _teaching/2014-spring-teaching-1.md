@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Actual Teaching"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "ENSTA Bretagne"
+permalink: /teaching/2023-actual
+venue: "ESNTA Bretagne"
+date: 2023
+location: "Brest France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+All my courses are available on the dedicated moodle platform.
+It concerns: 
+* Robotics : main issues, localization, control, path following, obstacle avoidance
+* Automatic Control : state space representations, linear systems analysis, linear control, simulation, introduction to nonlinear control, Robust Control, Kalman Filtering.
 
-Heading 1
+Main courses:
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+* UE1.1: Mathematics
+* UE1.2: Automatic Control
+* UV3.4: Robotic project, Systems Engineering
+* FIPA1: Dynamic Systems and Simulation
+* FIPA2: Automatic Control
