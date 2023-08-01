@@ -54,21 +54,6 @@ Validation Committee.
   * In charge of the Research transfer from universities to space industry.
 * 1998-2001 Associate Professor at Supélec - PhD (1998-2000) and Associate Professor (2000-2001).
   
-
-
-Publications
+Find out more
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Fint out more
-======
-download my resume [here](
+download my resume [here](https://www.ensta-bretagne.fr/clement/CV_clement.pdf).
