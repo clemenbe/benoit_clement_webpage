@@ -4,8 +4,9 @@ title: "Research Projects"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
 ---
+
+{% include base_path %}
 
 ## Research Projects
 
