@@ -10,39 +10,54 @@ redirect_from:
 
 ## Research Projects
 
-* **SHIVA (2022-2026)**: Optimisation and control of a marine cycloidal thruster funded by
-AID. Project with Matthieu Sacher (ENSTA Bretagne) and Frederic Hauville (Ecole Navale
-- French Marine Academy). The objective is to optimise the hydrodynamic performance
-of a 100% electric cycloidal thruster, with a wide variety of kinematics, by maximising the
+* **SHIVA (2022-2026)**:
+  * Optimisation and control of a marine cycloidal thruster funded by AID.
+  * Project with Matthieu Sacher (ENSTA Bretagne) and Frederic Hauville (Ecole Navale French Marine Academy). 
+  * The objective is to optimise the hydrodynamic performance of a 100% electric cycloidal thruster, with a wide variety of kinematics, by maximising the
 propulsive force and efficiency through a multi-model numerical-experimental approach.
-* **AID ERE (2020)**: Adaptive Control strategies for Marine Systems with Flinders University funded by AID Agence Innovation de Défense .
-* **COCHON (2021)**: Cooperative Control for Hazardous Occurrences in Navigation funded
-by Thales in cooperation with IMT Atlantique. Project leader. The aim of the project is to
-propose new strategies for a rendez-vous in cooperative mode or non-cooperative mode.
-* **RoFiCom (2020-2023)**: Robustesse et fiabilité de loi de commande adaptative funded by
-AID. Project with Jordan Ninin. It proposes a new simplified methodology to synthesise
-control laws for AUVs and maritime vessels, while providing mathematical guarantees on
+* **AID ERE (2020)**:
+  * Adaptive Control strategies for Marine Systems
+  * with Flinders University funded by AID Agence Innovation de Défense .
+* **COCHON (2021)**:
+  * Cooperative Control for Hazardous Occurrences in Navigation
+  * funded by Thales in cooperation with IMT Atlantique.
+  * Project leader.
+  * The aim of the project is to propose new strategies for a rendez-vous in cooperative mode or non-cooperative mode.
+* **RoFiCom (2020-2023)**:
+  * Robustesse et fiabilité de loi de commande adaptative
+  * funded by AID.
+  * Project with Jordan Ninin.
+  * It proposes a new simplified methodology to synthesise control laws for AUVs and maritime vessels, while providing mathematical guarantees on
 robustness, reliability, safety and performance.
-* **CAM (2020)**: Adaptive Control strategies for Underwater Autonomous Robots with
-Flinders University funded by Region Bretagne.
-* **SENI (2019-2024)**: Systèmes Embarqués Naval Intelligents: Common Lab between ENSTA Bretagne and Naval Group. Project leader. This lab objective is to propose new
-approaches to make UxV more efficient and smarter.
-* **NAVIDRO (2018-2019)**: The project proposes a State of art and a simulator for the
-precise navigation of AUVs for hydrography. Research contrat with SHOM . Project leader.
-* **ECGWifi (2016-2018)**: the project proposes a prototype of an portable ECG device for
-operating room, in cooperation with CHRU Brest.
-* **SWARMS (2012-2015)**: Management system of UAVs for monitoring, PICS CNRS with
-Australia.
-* **3I and BERISUAS (2012-2016)**: Integrated Coastal Zone Management via Increased situational awareness though Innovations on Unmanned Aircraft Systems - European Projects
-(partner with TU Delft, University of Southampton, Rewin, IMT Atlantique)
-Handivoile (2012-2014): Sailboat robotisation project helping disabled people to sail with
-a joystick and a smartphone interface. cooperation with Splashelec, (project coordinator)
-* **Vaimos (2010-2013)**: Autonomous sailboat collecting multidisciplinary ocean data with
-IFREMER
-* **PIROLA (2000-2009)**: Robust Control for Launchers. Long term project to produce an
-overvew about control and future launchers) CNES funding with Supélec, LAAS, ONERA,
-Supaero, Airbus Launchers. (project coordinator)
-
+* **CAM (2020)**:
+  * Adaptive Control strategies for Underwater Autonomous Robots
+  * with Flinders University funded by Region Bretagne.
+* **SENI (2019-2024)**:
+  * Systèmes Embarqués Naval Intelligents: Common Lab between ENSTA Bretagne and Naval Group.
+  * Project leader.
+  * This lab objective is to propose new approaches to make UxV more efficient and smarter.
+* **NAVIDRO (2018-2019)**:
+  * The project proposes a State of art and a simulator for the precise navigation of AUVs for hydrography. Research contrat with SHOM.
+  * Project leader.
+* **ECGWifi (2016-2018)**:
+  * the project proposes a prototype of an portable ECG device for operating room,
+  * in cooperation with CHRU Brest.
+* **SWARMS (2012-2015)**:
+  * Management system of UAVs for monitoring,
+  * PICS CNRS with Australia.
+* **3I and BERISUAS (2012-2016)**:
+  * Integrated Coastal Zone Management via Increased situational awareness though Innovations on Unmanned Aircraft Systems
+  * European Projects (partner with TU Delft, University of Southampton, Rewin, IMT Atlantique)
+* **Handivoile (2012-2014)**:
+  * Sailboat robotisation project helping disabled people to sail with a joystick and a smartphone interface.
+  * cooperation with Splashelec, (project coordinator)
+* **Vaimos (2010-2013)**:
+  * Autonomous sailboat collecting multidisciplinary ocean data
+  * with IFREMER
+* **PIROLA (2000-2009)**:
+  * Robust Control for Launchers.
+  * Long term project to produce an overview about control and future launchers
+  * CNES funding with Supélec, LAAS, ONERA, Supaero, Airbus Launchers. (project coordinator)
 
 ## PhD and PostDoc (current)
 
